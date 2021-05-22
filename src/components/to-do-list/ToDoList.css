@@ -1,0 +1,28 @@
+.container-b {
+  min-width: 400px;
+  width: 80%;
+  margin-left: 8%;
+  font-size: 15px;
+}
+
+.container-b .input {
+  color: #000000;
+  width: 97%;
+  height: 26px;
+  margin-top: 40px;
+  font-size: 12px;
+  padding-left: 7px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  text-align: left;
+  border: 1px solid #bdbdbd;
+  border-radius: 3px;
+}
+
+.popup-bulk-action {
+  width: 45%;
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 4px;
+}

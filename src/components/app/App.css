@@ -1,0 +1,30 @@
+.App {
+  margin-top: 5px;
+  margin-left: 400px;
+  width: 65%;
+  height: 958px;
+  background: #ffffff;
+  border: 1px solid #000000;
+}
+
+.new-task {
+  display: inline-block;
+  min-width: 250px;
+  width: 43%;
+  height: 100%;
+  border-right: 1px solid #000000;
+}
+
+.todo-list {
+  display: inline-block;
+  width: 56%;
+  height: 100%;
+  float: right;
+}
+
+.title {
+  color: #000000;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
